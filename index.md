@@ -10,4 +10,10 @@
     大陸からの渡来人が活躍し、飛鳥文化の後の天平文化は等による影響を受けた文化だった。
    
 # アトラクション紹介  
-[大化改新追体験]()
+[大化改新追体験](https://takajo-soft16.github.io/NaraAsuka_Rekishi-land/taika)
+
+[遣隋使体験ジェットコースター](https://takajo-soft16.github.io/NaraAsuka_Rekishi-land/kenzuishi)
+
+[平城京](https://takajo-soft16.github.io/NaraAsuka_Rekishi-land/heijokyo)
+
+[大仏フリーフォール](https://takajo-soft16.github.io/NaraAsuka_Rekishi-land/daibutsu)
