@@ -2,3 +2,5 @@
   
   飛鳥・奈良エリアの真ん中にある唐の文化を取り入れたきらびやかな天平文化を体験できます。
   法隆寺など飛鳥・奈良時代を代表する建築物も建っています。
+
+  [ページトップへ戻る](https://takajo-soft16.github.io/NaraAsuka_Rekishi-land/index)
